@@ -1,0 +1,24 @@
+{
+  "name": "angularproject-coursera",
+  "version": "1.0.0",
+  "description": "\"This is a test to learn git and node\"",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuSodre/AngularProject-Coursera.git"
+  },
+  "author": "Manuela Sodré",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuSodre/AngularProject-Coursera/issues"
+  },
+  "homepage": "https://github.com/ManuSodre/AngularProject-Coursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
